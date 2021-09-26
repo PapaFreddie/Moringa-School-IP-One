@@ -1,8 +1,8 @@
 h3{
     font-size: medium;
-    font-weight: lighter;
     font-family: monospace;
-    font-style: italic;
+    font-style: inherit;
+    font-weight: bold;
     
     font-size: x-large;
     align-items: center;
@@ -10,7 +10,7 @@ h3{
 }
 body{
     background-color: mediumaquamarine;
-    bc
+    
 }
 img{
     margin-top: 10px;
@@ -30,6 +30,7 @@ h1{
     font-size: x-large;
     font-style: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
 
 }
 p{
