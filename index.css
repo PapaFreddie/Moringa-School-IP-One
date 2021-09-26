@@ -31,12 +31,15 @@ h1{
     font-style: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
+    
 
 }
 p{
     align-items: baseline;
     font-style: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 700;
+    font-weight: normal;
+
 
 }
+    
