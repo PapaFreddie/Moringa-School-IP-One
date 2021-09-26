@@ -1,0 +1,40 @@
+h3{
+    font-size: medium;
+    font-weight: lighter;
+    font-family: monospace;
+    font-style: italic;
+    
+    font-size: x-large;
+    align-items: center;
+
+}
+body{
+    background-color: mediumaquamarine;
+    bc
+}
+img{
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    border-radius: 10px;
+    height: 200px;
+    width: 300px;
+
+    
+
+
+}
+h1{
+    align-items: center;
+    font-size: x-large;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+p{
+    align-items: baseline;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
