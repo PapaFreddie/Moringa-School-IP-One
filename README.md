@@ -14,3 +14,4 @@ so as to access the project on ur local files, you have to clone it using the st
 2. use this comand to clone 's git clone https://papafreddie.github.io/Moringa-School-IP-One/
 
 ## Lisence
+MIT
